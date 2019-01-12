@@ -1,0 +1,9 @@
+One line
+Antoher line
+This line has been modified in memory, running the python script
+New line in append moden
+New line in append moden
+New line in append moden
+
+w line in append moden
+
